@@ -44,7 +44,7 @@ const Component = ReactComponentComponent.default;
 
 ## How?
 
-Let's say you want some async data but don't want to make a whole new component just for the lifcycles to get it:
+Let's say you want some async data but don't want to make a whole new component just for the lifecycles to get it:
 
 ```render-babel
 // import Component from 'react-component-component'
